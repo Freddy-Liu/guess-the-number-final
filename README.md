@@ -1,4 +1,4 @@
-# guess-the-number-final
+# guess the number
 
 Number Guessing Game Objectives:
 
